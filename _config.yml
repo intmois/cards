@@ -20,10 +20,10 @@ url: "http://intmois.github.io" # the base hostname & protocol for your site
 default-image: webjeda-logo-big.jpg # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
 
 #footer
-built-by: webjeda
+built-by: highpriest
 copyright:
-   name: webjeda
-   link: 'http://blog.webjeda.com'
+   name: highpriest
+   link: 'http://highpriest.ga'
 
 # Build settings
 markdown: kramdown
@@ -32,21 +32,21 @@ paginate: 6
 paginate_path: /page:num/
 
 # Tracker
-analytics: UA-83979019-1
+
 
 # Comments
-disqus-shortname: webjeda-demo
+disqus-shortname:
 
 #social
-facebook: http://facebook.com/webjeda
-quora: http://quora.com/sharathdt
-twitter: http://twitter.com/@webjeda
-github: http://github.com/webjeda
+facebook: 
+quora: 
+twitter: http://twitter.com/@hghprst
+github: 
 
 #facebook like box
-fb-app-id: 549480635219583
-fb-page-url: https://www.facebook.com/webjeda/
-fb-page-title: webjeda
+fb-app-id: 
+fb-page-url: 
+fb-page-title: 
 
 # Sass style
 sass:
